@@ -1,0 +1,16 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+
+# Node
+node_modules/
+.next/
+out/
